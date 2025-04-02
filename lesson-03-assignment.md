@@ -18,3 +18,12 @@ by Annie Kwon
 
 Commit all modified and created files and create a PR to submit for your assignment.
 
+Here are the topic titles that we'll need to store:
+- SQL
+- Data Modeling
+- Javascript
+- CSS
+- Automated Testing
+- Debugging
+- Web Request Cycle
+- HTTP
