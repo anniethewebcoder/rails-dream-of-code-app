@@ -113,25 +113,12 @@ by Annie Kwon
         title: "HTTP",
         description: "HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the web. It defines how messages are formatted and transmitted between clients (like web browsers) and servers. When you visit a website, your browser sends an HTTP request to the server, which then responds with the requested resources, such as HTML pages, images, or data. HTTP is a stateless protocol, meaning each request is independent and doesn't retain information from previous interactions.")
 
-    LessonTopic.create(lesson_id: , topic_id: )
-    LessonTopic.create(lesson_id: , topic_id: )
-    LessonTopic.create(lesson_id: , topic_id: )
-    LessonTopic.create(lesson_id: , topic_id: )
-    LessonTopic.create(lesson_id: , topic_id: )
-    LessonTopic.create(lesson_id: , topic_id: )
+    LessonTopic.create(lesson_id: 211, topic_id: 1)
+    LessonTopic.create(lesson_id: 212, topic_id: 2)
+    LessonTopic.create(lesson_id: 201, topic_id: 3)
+    LessonTopic.create(lesson_id: 214, topic_id: 4)
+    LessonTopic.create(lesson_id: 215, topic_id: 5)
+    LessonTopic.create(lesson_id: 202, topic_id: 6)
+    LessonTopic.create(lesson_id: 202, topic_id: 7)
 
 ```
-
-Commit all modified and created files and create a PR to submit for your assignment.
-
-Here are the topic titles that we'll need to store:
-
-- SQL
-- Data Modeling
-- Javascript
-- CSS
-- Automated Testing
-- Debugging
-- Web Request Cycle
-- HTTP
-  https://www.youtube.com/watch?v=HGTJBPNC-Gw&list=PLZPZq0r_RZOPP5Yjt6IqgytMRY5uLt4y3
