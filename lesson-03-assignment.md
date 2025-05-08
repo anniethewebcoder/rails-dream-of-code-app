@@ -75,8 +75,8 @@ by Annie Kwon
 
 ```ruby
     class LessonTopic < ApplicationRecord
-        belongs_to :topic
-        belongs_to :lesson
+        has_many :topic
+        has_many :lesson
     end
 ```
 
